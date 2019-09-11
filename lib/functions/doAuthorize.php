@@ -7,8 +7,7 @@
  *
  * @filesource  doAuthorize.php
  * @package     TestLink
- * @author      Chad Rosen, Martin Havlat,Francisco Mancardi
- * @copyright   2003-2018, TestLink community 
+ * @copyright   2003-2019, TestLink community 
  * @link        http://www.testlink.org
  *
  */
